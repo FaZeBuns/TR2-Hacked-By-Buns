@@ -1,6 +1,7 @@
 ﻿# Temple Run 2 HACKED BY BUNS
 
 <p align="center">
+  <img2 src="assets/TR2.png" alt="Temple Run 2 Logo" width="160" />
   <img src="assets/buns_logo.png" alt="Hacked by Buns" width="160" />
 </p>
 
